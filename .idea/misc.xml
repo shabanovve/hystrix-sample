@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="ejb" url="file://$PROJECT_DIR$/../spring-ejb/spring-ejb-remote" />
+    <file type="ejb" url="file://$PROJECT_DIR$/../spring-ejb/wildfly/wildfly-ejb" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/../spring-ejb/wildfly/wildfly-ear" />
+    <file type="web" url="file://$PROJECT_DIR$/../apache-cxf/cxf-spring" />
+    <file type="web" url="file://$PROJECT_DIR$/../apache-cxf/sse-jaxrs/sse-jaxrs-server" />
+    <file type="web" url="file://$PROJECT_DIR$/../apache-velocity" />
+    <file type="web" url="file://$PROJECT_DIR$/../azure" />
+    <file type="web" url="file://$PROJECT_DIR$/../cas/cas-server" />
+    <file type="web" url="file://$PROJECT_DIR$/../google-web-toolkit" />
+    <file type="web" url="file://$PROJECT_DIR$/../httpclient-simple" />
+    <file type="web" url="file://$PROJECT_DIR$/../java-ee-8-security-api/app-auth-basic-store-db" />
+    <file type="web" url="file://$PROJECT_DIR$/../java-ee-8-security-api/app-auth-custom-form-store-custom" />
+    <file type="web" url="file://$PROJECT_DIR$/../java-ee-8-security-api/app-auth-custom-no-store" />
+    <file type="web" url="file://$PROJECT_DIR$/../java-ee-8-security-api/app-auth-form-store-ldap" />
+    <file type="web" url="file://$PROJECT_DIR$/../java-lite" />
+    <file type="web" url="file://$PROJECT_DIR$/../java-websocket" />
+    <file type="web" url="file://$PROJECT_DIR$/../javax-servlets" />
+    <file type="web" url="file://$PROJECT_DIR$/../jee-7-security" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey" />
+    <file type="web" url="file://$PROJECT_DIR$/../jhipster-5/bookstore-monolith" />
+    <file type="web" url="file://$PROJECT_DIR$/../jhipster/jhipster-microservice/car-app" />
+    <file type="web" url="file://$PROJECT_DIR$/../jhipster/jhipster-microservice/dealer-app" />
+    <file type="web" url="file://$PROJECT_DIR$/../jhipster/jhipster-microservice/gateway-app" />
+    <file type="web" url="file://$PROJECT_DIR$/../jhipster/jhipster-monolithic" />
+    <file type="web" url="file://$PROJECT_DIR$/../jhipster/jhipster-uaa/gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/../jhipster/jhipster-uaa/quotes" />
+    <file type="web" url="file://$PROJECT_DIR$/../jhipster/jhipster-uaa/uaa" />
+    <file type="web" url="file://$PROJECT_DIR$/../jsf" />
+    <file type="web" url="file://$PROJECT_DIR$/../jws" />
+    <file type="web" url="file://$PROJECT_DIR$/../linkrest" />
+    <file type="web" url="file://$PROJECT_DIR$/../logging-modules/log-mdc" />
+    <file type="web" url="file://$PROJECT_DIR$/../microprofile" />
+    <file type="web" url="file://$PROJECT_DIR$/../patterns/front-controller" />
+    <file type="web" url="file://$PROJECT_DIR$/../patterns/intercepting-filter" />
+    <file type="web" url="file://$PROJECT_DIR$/../persistence-modules/deltaspike" />
+    <file type="web" url="file://$PROJECT_DIR$/../persistence-modules/jnosql/jnosql-artemis" />
+    <file type="web" url="file://$PROJECT_DIR$/../persistence-modules/spring-boot-persistence-mongodb" />
+    <file type="web" url="file://$PROJECT_DIR$/../persistence-modules/spring-jpa" />
+    <file type="web" url="file://$PROJECT_DIR$/../resteasy" />
+    <file type="web" url="file://$PROJECT_DIR$/../restx" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-all" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-aop" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot-autoconfiguration" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot-client" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot-data" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot-flowable" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot-libraries" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot-ops" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot-rest" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot-testing" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-core" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-dispatcher-servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-ejb/wildfly/widlfly-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-exceptions" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-freemarker" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-jersey" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-jms" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-katharsis" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-mobile" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-mvc-forms-jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-mvc-java" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-mvc-kotlin" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-mvc-simple" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-mvc-simple-2" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-mvc-velocity" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-mvc-webflow" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-mvc-xml" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-rest" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-rest-angular" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-rest-full" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-rest-query-language" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-rest-simple" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-resttemplate" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-acl" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-client/spring-security-jsp-authentication" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-client/spring-security-jsp-authorize" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-client/spring-security-jsp-config" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-client/spring-security-mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-client/spring-security-thymeleaf-authentication" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-client/spring-security-thymeleaf-authorize" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-client/spring-security-thymeleaf-config" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-core" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-kerberos" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-mvc-boot" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-mvc-custom" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-mvc-digest-auth" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-mvc-jsonview" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-mvc-ldap" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-mvc-login" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-mvc-persisted-remember-me" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-mvc-session" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-mvc-socket" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-openid" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-rest" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-rest-basic-auth" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-rest-custom" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-sso/spring-security-sso-auth-server" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-sso/spring-security-sso-ui" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-sso/spring-security-sso-ui-2" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security-stormpath" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-social-login" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-static-resources" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-thymeleaf" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-userservice" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-zuul/spring-zuul-foos-resource" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-zuul/spring-zuul-ui" />
+    <file type="web" url="file://$PROJECT_DIR$/../vaadin" />
+    <file type="web" url="file://$PROJECT_DIR$/../vraptor" />
+    <file type="web" url="file://$PROJECT_DIR$/../wicket" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="12" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
